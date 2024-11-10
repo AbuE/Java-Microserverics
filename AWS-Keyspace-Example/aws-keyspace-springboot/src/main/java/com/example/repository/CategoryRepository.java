@@ -12,7 +12,7 @@ import com.example.entity.CategoryEntity;
  * 
  * @author Abu Ehteshamuddin
  * 
- * CRUD operations cane be dome easily when taken this entity approach.
+ * CRUD operations cane be done easily when taken this entity approach.
  * 
  * And if any custom queries are required that can also be done.
  *
